@@ -1,1 +1,1 @@
-# petergab.github.io
+# sky-web.pl
